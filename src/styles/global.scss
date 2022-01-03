@@ -1,0 +1,9 @@
+$color__oscuro: rgb(22, 0, 0);
+$color__claro: rgb(245, 245, 245);
+$color__base: #c6538c;
+$color: rgba(black, 0.88);
+
+body {
+  background-color: $color__base;
+  color: $color;
+}
